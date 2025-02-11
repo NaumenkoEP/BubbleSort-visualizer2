@@ -1,1 +1,1 @@
-# BubbleSort-visualizer2
+# BubbleSort-visualizerJS
